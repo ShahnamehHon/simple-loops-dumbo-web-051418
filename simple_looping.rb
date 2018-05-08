@@ -1,7 +1,7 @@
   counter = 0
    phrase = "Welcome to Flatiron School's Web Development Course!"
   
-
+def 
   loop do
     puts phrase
     counter += 1
