@@ -1,8 +1,5 @@
-# REMEMBER: print your output to the terminal using 'puts'
-
 def loop_iterator(number_of_times)
   thank_you = 0
-  
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
   loop do
